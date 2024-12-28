@@ -1,7 +1,7 @@
 """
 Created on Wed Jun 15 14:48:43 2022
 Author: Jakub Trušina
-Name: Stress_Linearization_in_ParaView.py
+Name: Stress_Linearization_with_ParaView.py
 """
 
 inp = "SIGM_from_ParaView_Stress_Linearization.txt"        # File ( 1st point of arc_length has to be 0! )
